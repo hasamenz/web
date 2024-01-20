@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+/*Diseño para el NAVbAR */
+.logo{
+    width: 15%;
+}
+nav{
+    margin-top: 0;
+    background-color: #396981 !important;
+}
+.main{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+/*
+ Diseño para el slider 
+*/
+
+
+/*Diseño para el section*/
+.card-img-top {
+    height: 300px; /* ajusta la altura según tus necesidades */
+    width: 80%;
+    object-fit: cover; /* escala y corta la imagen para que tenga el mismo tamaño */
+}
+
+
+    /* Diseño para el footer */
+    
+    #miFooter {
+        background-color: #4b7d8f !important;
+        color: white;
+        padding: 20px 0;
+    }
+    .sociales img {
+        max-width: 60px; /* Establece el tamaño máximo deseado */
+        height: auto; /* Permite que la altura se ajuste automáticamente para mantener la proporción */
+    }
+    
+.color{
+    background-color: #4b7d8f;
+    
+}
+.lin:hover{
+    color: rebeccapurple;
+}
+.btn-primary{
+    background-color: red !important;
+}
+.card:hover{
+    background-color: #648c9b1c;
+}
+
